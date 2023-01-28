@@ -3,7 +3,9 @@
 - I'm studying Japanese, do not disturb me! >_<
 - 日本語を勉強しています、邪魔しないでください！>_<
 
-> I will be back when passed N2.
+> ~~I will be back when I passed N2~~.
+> 
+> I will be back when I passed N1!
 <!---
 zjx137/zjx137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
